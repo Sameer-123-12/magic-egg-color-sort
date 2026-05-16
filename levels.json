@@ -1,18 +1,27 @@
 [
         { 
-            "characters": ["S", "U", "J", "B", "U", "Z", "K", "L"],
-            "target_word": ["B", "U", "S"]    
+            "slotletters":["D","I","C",""],
+            "characters": ["K","E","R"],
+            "targetIndex": 1   
         },
         {
-            "characters": ["S", "U", "O", "B", "U", "Z", "K", "L", "I", "E", "P", "M"],
-            "target_word": ["M", "O", "B", "I","L"]
+            "slotletters":["M", "O", "B", "","L","E"],
+            "characters": ["E", "R", "I"],
+            "targetIndex": 2
         },
       {
-            "characters": ["H", "U", "H", "B", "C", "Z", "K", "A", "I", "E", "P", "M","E","T"],
-            "target_word": ["C", "H", "E", "E","T","A","H"]
+            "slotletters":["A", "I", "R", "P","L","","N","E"],
+            "characters": ["A","R","K","I","E"],
+            "targetIndex": 0
         },
         {
-             "characters": ["F", "U", "O", "B", "U", "Z", "K", "L", "I", "E", "P", "M","T","T","Y","R"],
-            "target_word": ["B", "U", "T", "T","E","R","F","L","Y"]
+            "slotletters":["W", "O", "O", "","P","E","C","K","E","R"],
+             "characters": ["A", "U", "O", "B", "D"],
+            "targetIndex": 4
+        },
+        {
+            "slotletters":["H", "A", "N", "D","","E","Y","C","H","I","E","F"],
+             "characters": ["Z", "U", "O", "F", "K"],
+            "targetIndex": 4
         }
     ]
