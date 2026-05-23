@@ -1,34 +1,45 @@
 [
   {
-    "question": ["5, 10, 20, ?"],
-    "answer": "40"
+    "tubes": [
+      ["red", "blue", "red", "blue"],
+      ["blue", "red", "blue", "red"],
+      []
+    ]
   },
+
   {
-    "question": ["(6 + 4) × 2 = ?"],
-    "answer": "20"
+    "tubes": [
+      ["red", "green", "blue", "red"],
+      ["blue", "red", "green", "green"],
+      ["blue", "green", "red", "blue"],
+      [],
+      []
+    ]
   },
+
   {
-    "question": ["2 + 3 = 5","4 + 5 = ?"],
-    "answer": "9"
+    "tubes": [
+      ["red", "green", "yellow", "blue"],
+      ["purple", "blue", "red", "yellow"],
+      ["green", "purple", "blue", "red"],
+      ["yellow", "green", "purple", "blue"],
+      ["red", "yellow", "green", "purple"],
+      [],
+      []
+    ]
   },
+
   {
-    "question": ["6 = 36","4 = 16","3 = ?"],
-    "answer": "9"
-  },
-  {
-    "question": ["2 × 2 = 4","3 × 3 = 9","4 × 4 = 16","5 × 5 = ?"],
-    "answer": "25"
-  },
-  {
-    "question": ["10 + 5 = 15","15 + 5 = 20","20 + 5 = 25","25 + 5 = 30","30 + 5 = ?"],
-    "answer": "35"
-  },
-  {
-    "question": ["1 = 1","2 = 4","3 = 9","4 = 16","5 = ?"],
-    "answer": "25"
-  },
-  {
-    "question": ["8 ÷ 2 = 4","12 ÷ 3 = 4","16 ÷ 4 = 4","20 ÷ 5 = 4", "24 ÷ 6 = ?"],
-    "answer": "4"
+    "tubes": [
+      ["red", "green", "yellow", "blue"],
+      ["purple", "orange", "red", "yellow"],
+      ["green", "purple", "blue", "orange"],
+      ["yellow", "green", "purple", "blue"],
+      ["red", "yellow", "green", "purple"],
+      ["orange", "blue", "red", "orange"],
+      [],
+      [],
+      []
+    ]
   }
 ]
