@@ -9,7 +9,7 @@
       ["red", "green", "blue", "red"],
       ["blue", "red", "green", "green"],
       ["blue", "green", "red"],
-      [],
+      ["blue"],
       []
     ],
 
