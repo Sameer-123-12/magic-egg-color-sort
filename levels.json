@@ -3,7 +3,7 @@
     "tubes": [
       ["red", "blue", "red", "blue"],
       ["blue", "red", "blue", "red"],
-      []
+      ["blue", "red", "blue", "red"],[]
     ]
   },
 
@@ -13,7 +13,7 @@
       ["blue", "red", "green", "green"],
       ["blue", "green", "red", "blue"],
       [],
-      [],[],[],[],[],[],[],[],[],[],[],
+      [],
       []
     ]
   },
@@ -25,7 +25,8 @@
       ["green", "purple", "blue", "red"],
       ["yellow", "green", "purple", "blue"],
       ["red", "yellow", "green", "purple"],
-      [],
+      
+      [],[],
       []
     ]
   },
